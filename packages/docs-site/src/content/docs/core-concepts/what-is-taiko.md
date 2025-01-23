@@ -23,7 +23,7 @@ It can be easily configured as a fully ZK rollup, optimistic rollup, or anything
 - **Taiko Community**: Social groups/accounts run by anyone interested, including Taiko Discord, Taiko Twitter, etc.
 - **Taiko Labs**: Research & development group for the Taiko protocol.
 - **Taiko Treasury**: Funded by income from the Taiko protocol (L2 EIP-1559 congestion MEV).
-- **Taiko DAO (in progress)**: Governing body of Taiko Token (TAIKO) holders with voting rights over smart contract upgrades, network parameters, and more. Controls all aspects of the Taiko protocol smart contracts.
+- **Taiko DAO**: Governing body of Taiko Token (TAIKO) holders with voting rights over smart contract upgrades, network parameters, and more. Controls all aspects of the Taiko protocol smart contracts with an optimistic approach.
 - **Taiko Foundation**: Stewards growth and development of the Taiko protocol and ecosystem. Works for the Taiko DAO and token holders, financing technical developments, ecosystem growth, partnerships, events, and more with full transparency.
 - **Taiko Security Council**: Elected by the Taiko DAO to handle emergency actions. Ensures the safety of the Taiko protocol, implementing necessary upgrades or changes, and controls the Guardian Provers.
 
